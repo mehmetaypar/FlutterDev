@@ -1,0 +1,7 @@
+git clone repo address
+
+git add . 
+git commit -m "mesaj"
+
+
+git push origin master
